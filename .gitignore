@@ -1,3 +1,7 @@
+# oversized csv files
+citibike-062019-fewercolumns.csv
+citibike-062020-fewercolumns.csv
+
 # raw data storage folders
 2019/
 2020/
